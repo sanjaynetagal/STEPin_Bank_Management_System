@@ -1,5 +1,5 @@
 # Functional Calculator
-It is a Calculator that will allow to perform 20 operations the following operations as a Calculator will perform to Calculate Time, Speed, Distance, Addition, Subtraction, Multiplication, Square, Square Root, Division and Reminder.
+Sorry for the change in the title of my project basically i started doing the another project due to some conflicts i did this project and it will be working fully. It is a Calculator that will allow to perform 20 operations the following operations as a Calculator will perform to Calculate Time, Speed, Distance, Addition, Subtraction, Multiplication, Square, Square Root, Division and Reminder.
 It also helpful to find Factorial, Prime, Even or Odd, Simple Interest and Compound Interest and Permutation and Combination and etc.
 
 ## Code Inspector Badges
