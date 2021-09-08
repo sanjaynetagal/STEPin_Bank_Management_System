@@ -7,3 +7,4 @@ It also helpful to find Factorial, Prime, Even or Odd, Simple Interest and Compo
 [![C/C++ CI](https://github.com/sanjaynetagal/STEPin_Bank_Management_System/actions/workflows/Build.yml/badge.svg)](https://github.com/sanjaynetagal/STEPin_Bank_Management_System/actions/workflows/Build.yml)
 [![cppcheck-action](https://github.com/sanjaynetagal/STEPin_Bank_Management_System/actions/workflows/cppcheck.yml/badge.svg)](https://github.com/sanjaynetagal/STEPin_Bank_Management_System/actions/workflows/cppcheck.yml)
 [![Unit testing](https://github.com/sanjaynetagal/STEPin_Bank_Management_System/actions/workflows/Unit-Test.yml/badge.svg)](https://github.com/sanjaynetagal/STEPin_Bank_Management_System/actions/workflows/Unit-Test.yml)
+[![Git Inspector](https://github.com/sanjaynetagal/STEPin_Bank_Management_System/actions/workflows/Git-Inspector.yml/badge.svg)](https://github.com/sanjaynetagal/STEPin_Bank_Management_System/actions/workflows/Git-Inspector.yml)
