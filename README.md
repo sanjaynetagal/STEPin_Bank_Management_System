@@ -5,3 +5,4 @@ It also helpful to find Factorial, Prime, Even or Odd, Simple Interest and Compo
 ![](https://www.code-inspector.com/project/28007/status/svg)
 [![Codacy Badge](https://app.codacy.com/project/badge/Grade/e296dd66515c4a228c2832fa892bc084)](https://www.codacy.com/gh/sanjaynetagal/STEPin_Bank_Management_System/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=sanjaynetagal/STEPin_Bank_Management_System&amp;utm_campaign=Badge_Grade)
 [![C/C++ CI](https://github.com/sanjaynetagal/STEPin_Bank_Management_System/actions/workflows/Build.yml/badge.svg)](https://github.com/sanjaynetagal/STEPin_Bank_Management_System/actions/workflows/Build.yml)
+[![cppcheck-action](https://github.com/sanjaynetagal/STEPin_Bank_Management_System/actions/workflows/cppcheck.yml/badge.svg)](https://github.com/sanjaynetagal/STEPin_Bank_Management_System/actions/workflows/cppcheck.yml)
