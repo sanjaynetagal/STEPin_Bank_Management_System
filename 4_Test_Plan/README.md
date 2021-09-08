@@ -1,4 +1,4 @@
-## Table no: Low level test plan
+## Table no: Test plan for Function Calculator
 
 | **Test ID** | **Description**                                              | **Exp IN**      | **Exp OUT** | **Actual Out** |**Type Of Test**  |    
 |-------------|--------------------------------------------------------------|------------     |-------------|----------------|------------------|
